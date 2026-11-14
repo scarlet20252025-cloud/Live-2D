@@ -15,7 +15,6 @@
 ## 在线预览
 
 - 公网：http://39.108.93.52:10006/
-- 局域网：http://10.13.24.1:8088/
 
 完整 239 张表情、搜索、分类、点赞与 ZIP 下载都在网页里。
 
@@ -161,12 +160,6 @@ pwsh -NoProfile -File .\Pack-Art.ps1 -PackOnly
 - 离线渲染器与 EmoteLab 原生导出在边缘抗锯齿上存在差异，正式发布建议使用 EmoteLab 原生批量导出
 
 ## 作者声明
-
-![作者头像](assets/avatar.jpg)
-
-- **作者**：Asryto（GitHub 用户名）
-- **GitHub**：https://github.com/Asryto
-- **项目仓库**：https://github.com/scarlet20252025-cloud/Live-2D
 
 本项目为个人学习与社团展示用途。角色「培正娘」是广州培正学院的拟人化同人创作，与学校官方无关。EmoteLab / CoffeeBean 的骨架、动画与官方图集版权归 GlycoProduction 所有，本项目仅保留自绘外观、工程脚本与文档。请勿将本项目用于商业贩卖或二次售卖。
 
