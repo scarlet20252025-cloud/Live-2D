@@ -153,6 +153,16 @@ pwsh -NoProfile -File .\Pack-Art.ps1 -PackOnly
 - 官方 CoffeeBean 图集页来自 EmoteLab 安装包，仅用于本地模型与学习，不随本仓库再分发授权
 - 离线渲染器与 EmoteLab 原生导出在边缘抗锯齿上存在差异，正式发布建议使用 EmoteLab 原生批量导出
 
+## 作者声明
+
+![作者头像](assets/avatar.jpg)
+
+- **作者**：scarlet20252025-cloud
+- **GitHub**：https://github.com/scarlet20252025-cloud
+- **项目仓库**：https://github.com/scarlet20252025-cloud/Live-2D
+
+本项目为个人学习与社团展示用途。角色「培正娘」是广州培正学院的拟人化同人创作，与学校官方无关。EmoteLab / CoffeeBean 的骨架、动画与官方图集版权归 GlycoProduction 所有，本项目仅保留自绘外观、工程脚本与文档。请勿将本项目用于商业贩卖或二次售卖。
+
 ## 致谢
 
 - 骨架与动画：EmoteLab / GlycoProduction CoffeeBean
